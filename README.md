@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/62333059/225196932-1cf9452e-bbcf-4273-a25e-107a56ded25a.png" alt="Nevermind" align="center">
+  <img src="https://media1.tenor.com/m/3Da1Z_asDzcAAAAC/kanye-west-kanye.gif" alt="kanye-west-vultures" align="center" style="width: 700px; height: auto;" >
   <br>
   <br>
-  <p>giving up is way harder than trying</p>
 </div>
 <div align="center">
 <img src="https://raw.githubusercontent.com/sukh-virdi-mhra/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
